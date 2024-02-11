@@ -7,3 +7,4 @@ We are enabling employees who are motivated to further accelerate their skills t
 
 We're happy you joined us, welcome to the team! Giulia is your manager and helps you through your upskilling journey in PowerBI - your step to become a true data jedi and Digital Accelerator. But wait no more, word spreads fast and an important client reached out to you to help him visualising their data. 
  
+ 
